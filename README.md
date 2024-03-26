@@ -10,6 +10,7 @@ Feel free to make an Issue if you feel there's a phenomenal add-on missing from 
 * 600% Sound Volume
 
 ## Customizing Websites
+* [Firefox GX](https://github.com/Godiesc/firefox-gx): Turns the Firefox UX/UI into one similar to that of Opera GX, with directions on how to customize. Please, [don't use Opera products.](https://www.androidpolice.com/2020/01/21/opera-predatory-loans/)
 * Stylus
 * Momentum: Alternative to Humble New Tab Page.
 * Humble New Tab Page: Alternative to Momentum.
