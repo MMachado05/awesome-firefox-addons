@@ -3,7 +3,19 @@ This is an ongoing list of add-ons for Firefox I find that I feel are particular
 
 Feel free to make an Issue if you feel there's a phenomenal add-on missing from this list!
 
-## General Purpose
+## General Recommendations
+* uBlock Origin
+* Bypass Paywalls Clean (D)
+* Return YouTube Dislike
+* 600% Sound Volume
+
+## Customizing Websites
+* Stylus
+* Momentum: Alternative to Humble New Tab Page.
+* Humble New Tab Page: Alternative to Momentum.
+
+## Productivity
+* SaveFrom.net helper all-in-1 / youtube downloader
 * [Progressive Web Apps](https://addons.mozilla.org/en-US/firefox/addon/pwas-for-firefox/): Turns websites into stand-alone applications when requested - only available for websites that support the PWA format. Particularly useful for apps that might not need an active internet connection to function (i.e. Excalidraw)
 
 ## For Students
