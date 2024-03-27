@@ -15,6 +15,7 @@ Extensions that make the overall Firefox browsing experience better in less dete
 * Stylus
 * Momentum: Alternative to Humble New Tab Page.
 * Humble New Tab Page: Alternative to Momentum.
+* Tampermonkey
 
 ## Productivity
 * SaveFrom.net helper all-in-1 / youtube downloader
