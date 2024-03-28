@@ -15,13 +15,14 @@ Extensions that make the overall Firefox browsing experience better in less dete
 ## Customizing Websites
 * [Firefox GX](https://github.com/Godiesc/firefox-gx): Turns the Firefox UX/UI into one similar to that of Opera GX, with directions on how to customize. Please, [don't use Opera products.](https://www.androidpolice.com/2020/01/21/opera-predatory-loans/)
 * [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/): Easily download, manage, and create community-created themes for any website imaginable.
-* [Momentum](https://addons.mozilla.org/en-US/firefox/addon/momentumdash/): A productivity-focused new tab page. **NOTE:** This is *not* F/LOSS software, if that's important to you. Alternative to Humble New Tab Page.
+* [Tabliss](https://addons.mozilla.org/en-US/firefox/addon/tabliss/): A calm new tab for productivity with rich customizability. 
 * [Humble New Tab Page](https://addons.mozilla.org/en-US/firefox/addon/humble-new-tab/): A minimal yet customizable new tab page. Alternative to Momentum.
 * [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/): Apply custom scripts to websites for maximum customizability.
 
 ## Productivity
 * [Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/): Take complete control over your YouTube viewing experience, from disabling those annoying cards that show up at the end of videos, to creating custom keyboard shortcuts. Works well with Return Youtube Dislike.
 * [Unhook](https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos/): Eliminate YouTube's recommended videos, comments, and even more distracting things to take control of your viewing experience.
+* [Video DownloadHelper](https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/?utm_medium=firefox-desktop&utm_source=firefox-suggest): 
 * [SaveFrom.net helper all-in-1 / youtube downloader](https://addons.mozilla.org/en-US/firefox/addon/savefromnet-helper/): Easily download any YouTube video.
 * [Progressive Web Apps](https://addons.mozilla.org/en-US/firefox/addon/pwas-for-firefox/): Turns websites into stand-alone applications when requested - only available for websites that support the PWA format. Particularly useful for apps that might not need an active internet connection to function (i.e. Excalidraw)
 * [600% Sound Volume](https://addons.mozilla.org/en-US/firefox/addon/600-sound-volume/): Take advantage of all your speakers' power by increasing the maximum sound output YouTube allows.
@@ -31,3 +32,10 @@ Extensions that make the overall Firefox browsing experience better in less dete
 * [Simplify](https://addons.mozilla.org/en-US/firefox/addon/simplify-jobs/?utm_source=simplify&utm_medium=copilot): Will automatically fill out job applications with pre-set information you provide. The company also maintains a [GitHub page](https://github.com/SimplifyJobs) where they host a repo listing hundreds of software internships for summer of the relevant year.
 * [Better Canvas](https://addons.mozilla.org/en-US/firefox/addon/better-canvas/): Complete customization over your Canvas portal. Works well with Tasks for Canvas™.
 * [Tasks for Canvas™](https://addons.mozilla.org/en-US/firefox/addon/tasks-for-canvas/): Renders Canvas tasks in a much more aesthetically pleasing and functional way. Works well with Better Canvas.
+
+***
+
+## Extensions not included
+These extensions are ones I am aware of but don't particularly like, or I feel have a better alternative (included in parentheses if relevant). Feel free to peruse them at your leisure regardless.
+
+* [Momentum](https://addons.mozilla.org/en-US/firefox/addon/momentumdash/) (Tabliss)
