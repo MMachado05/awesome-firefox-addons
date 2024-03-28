@@ -3,6 +3,8 @@ This is an ongoing list of add-ons for Firefox I find that I feel are particular
 
 Feel free to make an Issue if you feel there's a phenomenal add-on missing from this list!
 
+**A note:** there's a Firefox fork called [Floorp](https://floorp.app/en/) that actually has a lot of QoL improvements added by default. Silly name aside, it's worth looking into if you're interested in "enhancing" the way you use Firefox.
+
 ## Quality-of-Life Improvements
 Extensions that make the overall Firefox browsing experience better in less detectable ways. May also have the added benefit of improving your privacy.
 * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/): The most reputable tracker/ad/content blocker available for browsers to date.
