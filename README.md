@@ -24,7 +24,7 @@ Extensions that make the overall Firefox browsing experience better in less dete
 ## Productivity
 * [Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/): Take complete control over your YouTube viewing experience, from disabling those annoying cards that show up at the end of videos, to creating custom keyboard shortcuts. Works well with Return Youtube Dislike.
 * [Unhook](https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos/): Eliminate YouTube's recommended videos, comments, and even more distracting things to take control of your viewing experience.
-* [Video DownloadHelper](https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/?utm_medium=firefox-desktop&utm_source=firefox-suggest): 
+* [Momentum](https://addons.mozilla.org/en-US/firefox/addon/momentumdash/): A sleek new tab page focused on improving productivity.
 * [SaveFrom.net helper all-in-1 / youtube downloader](https://addons.mozilla.org/en-US/firefox/addon/savefromnet-helper/): Easily download any YouTube video.
 * [Progressive Web Apps](https://addons.mozilla.org/en-US/firefox/addon/pwas-for-firefox/): Turns websites into stand-alone applications when requested - only available for websites that support the PWA format. Particularly useful for apps that might not need an active internet connection to function (i.e. Excalidraw)
 * [600% Sound Volume](https://addons.mozilla.org/en-US/firefox/addon/600-sound-volume/): Take advantage of all your speakers' power by increasing the maximum sound output YouTube allows.
@@ -40,4 +40,4 @@ Extensions that make the overall Firefox browsing experience better in less dete
 ## Extensions not included
 These extensions are ones I am aware of but don't particularly like, or I feel have a better alternative (included in parentheses if relevant). Feel free to peruse them at your leisure regardless.
 
-* [Momentum](https://addons.mozilla.org/en-US/firefox/addon/momentumdash/) (Tabliss)
+* [Video DownloadHelper](https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/?utm_medium=firefox-desktop&utm_source=firefox-suggest)
