@@ -10,6 +10,7 @@ Extensions that make the overall Firefox browsing experience better in less dete
 * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/): The most reputable tracker/ad/content blocker available for browsers to date.
 * [Bypass Paywalls Clean](https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean-d/): Get rid of all paywalls on nearly any news/article website. For obvious reasons, this extension gets taken down somewhat frequently, so [here's](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean) an alternate link. It's a little more complex to install it this way, but a lot more reliable.
 * [Return YouTube Dislike](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/): Re-enable dislike statistics on YouTube. Works well with Enhancer for YouTube.
+* [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=featured) Stop Facebook from tracking your every move by completely isolating it from the rest of your browser.
 * [I still don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/) Gets rid of that intrusive "Allow cookies" banner on all websites. **NOTE:** if this is a *necessary* popup in order to use the website, the extension will automatically accept cookies, which sometimes includes accepting all of them. If privacy is important to you, please look into this extension and make sure it's right for you. 
 
 ## Customizing Websites
