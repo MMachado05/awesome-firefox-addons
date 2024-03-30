@@ -17,14 +17,15 @@ Extensions that make the overall Firefox browsing experience better in less dete
 ## Customizing Websites
 * [Firefox GX](https://github.com/Godiesc/firefox-gx): Turns the Firefox UX/UI into one similar to that of Opera GX, with directions on how to customize. Please, [don't use Opera products.](https://www.androidpolice.com/2020/01/21/opera-predatory-loans/)
 * [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/): Easily download, manage, and create community-created themes for any website imaginable.
-* [Tabliss](https://addons.mozilla.org/en-US/firefox/addon/tabliss/): A calm new tab for productivity with rich customizability. 
-* [Humble New Tab Page](https://addons.mozilla.org/en-US/firefox/addon/humble-new-tab/): A minimal yet customizable new tab page. Alternative to Momentum.
+* [Tabliss](https://addons.mozilla.org/en-US/firefox/addon/tabliss/): A calm new tab for productivity with rich customizability. *Alternatives: Momentum, HNTP, New Tab Override*
+* [Humble New Tab Page](https://addons.mozilla.org/en-US/firefox/addon/humble-new-tab/): A minimal yet customizable new tab page. *Alternatives: Momentum, Tabliss, New Tab Override*
+* [New Tab Override](https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/): Set custom URLs and settings for your new tab. *Alternatives: Momentum, Tabliss, HNTP*
 * [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/): Apply custom scripts to websites for maximum customizability.
 
 ## Productivity
 * [Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/): Take complete control over your YouTube viewing experience, from disabling those annoying cards that show up at the end of videos, to creating custom keyboard shortcuts. Works well with Return Youtube Dislike.
 * [Unhook](https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos/): Eliminate YouTube's recommended videos, comments, and even more distracting things to take control of your viewing experience.
-* [Momentum](https://addons.mozilla.org/en-US/firefox/addon/momentumdash/): A sleek new tab page focused on improving productivity.
+* [Momentum](https://addons.mozilla.org/en-US/firefox/addon/momentumdash/): A sleek new tab page focused on improving productivity. *Alternatives: HNTP, Tabliss, New Tab Override*
 * [SaveFrom.net helper all-in-1 / youtube downloader](https://addons.mozilla.org/en-US/firefox/addon/savefromnet-helper/): Easily download any YouTube video.
 * [Progressive Web Apps](https://addons.mozilla.org/en-US/firefox/addon/pwas-for-firefox/): Turns websites into stand-alone applications when requested - only available for websites that support the PWA format. Particularly useful for apps that might not need an active internet connection to function (i.e. Excalidraw)
 * [600% Sound Volume](https://addons.mozilla.org/en-US/firefox/addon/600-sound-volume/): Take advantage of all your speakers' power by increasing the maximum sound output YouTube allows.
