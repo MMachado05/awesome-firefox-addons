@@ -30,6 +30,11 @@ Extensions that add some helpful tools to the Firefox browsing experience. Usual
 * [Tree Style Tabs](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/): Hierarchically organize your tabs to better keep track of websites you've got open.
 * [SaveFrom.net helper all-in-1 / youtube downloader](https://addons.mozilla.org/en-US/firefox/addon/savefromnet-helper/): Easily download any YouTube video.
 
+## Productivity
+* [Limit tabs](https://addons.mozilla.org/en-US/firefox/addon/rudolf-fernandes/): Stop tab hoarding in its tracks by putting a hard limit on the number of tabs you can have open.
+* [Unhook](https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos/): Eliminate YouTube's recommended videos, comments, and even more distracting things to take control of your viewing experience.
+* [Momentum](https://addons.mozilla.org/en-US/firefox/addon/momentumdash/): A sleek new tab page focused on improving productivity. *Alternatives: HNTP, Tabliss, New Tab Override*
+
 ## Customizing Websites
 * [Firefox GX](https://github.com/Godiesc/firefox-gx): Turns the Firefox UX/UI into one similar to that of Opera GX, with directions on how to customize. Please, [don't use Opera products.](https://www.androidpolice.com/2020/01/21/opera-predatory-loans/)
 * [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/): Easily download, manage, and create community-created themes for any website imaginable.
@@ -37,10 +42,6 @@ Extensions that add some helpful tools to the Firefox browsing experience. Usual
 * [Humble New Tab Page](https://addons.mozilla.org/en-US/firefox/addon/humble-new-tab/): A minimal yet customizable new tab page. *Alternatives: Momentum, Tabliss, New Tab Override*
 * [New Tab Override](https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/): Set custom URLs and settings for your new tab. *Alternatives: Momentum, Tabliss, HNTP*
 * [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/): Apply custom scripts to websites for maximum customizability.
-
-## Productivity
-* [Unhook](https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos/): Eliminate YouTube's recommended videos, comments, and even more distracting things to take control of your viewing experience.
-* [Momentum](https://addons.mozilla.org/en-US/firefox/addon/momentumdash/): A sleek new tab page focused on improving productivity. *Alternatives: HNTP, Tabliss, New Tab Override*
 
 ***
 
