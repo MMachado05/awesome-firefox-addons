@@ -8,6 +8,7 @@ Feel free to make an Issue if you feel there's a phenomenal add-on missing from 
 ## Quality-of-Life Improvements
 Extensions that make the overall Firefox browsing experience better in ways that benefit just about everyone. May also have the added benefit of improving your privacy.
 * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/): The most reputable tracker/ad/content blocker available for browsers to date.
+* [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/): Automatically blocks trackers.
 * [Bypass Paywalls Clean](https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean-d/): Get rid of all paywalls on nearly any news/article website. For obvious reasons, this extension gets taken down somewhat frequently, so [here's](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean) an alternate link. It's a little more complex to install it this way, but a lot more reliable.
 * [Return YouTube Dislike](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/): Re-enable dislike statistics on YouTube. Works well with Enhancer for YouTube.
 * [CleanURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/): Skim off the automatically-appended user tracking parts of URLs, leaving behind nothing but what you wanted to click.
@@ -24,9 +25,12 @@ Extensions that are particularly well-suited for high-school/college students. T
 Extensions that add some helpful tools to the Firefox browsing experience. Usually super useful for some people, and largely unnecessary for others; it all depends on you!
 * [Progressive Web Apps](https://addons.mozilla.org/en-US/firefox/addon/pwas-for-firefox/): Turns websites into stand-alone applications when requested - only available for websites that support the PWA format. Particularly useful for apps that might not need an active internet connection to function (i.e. Excalidraw)
 * [Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/): Take complete control over your YouTube viewing experience, from disabling those annoying cards that show up at the end of videos, to creating custom keyboard shortcuts. Works well with Return Youtube Dislike.
+* [Auto Tab Discard](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/): Offloads unused tabs from memory to save RAM (THIS DOES NOT DELETE TABS, the name is based on the underlying code used to build the add-on.)
 * [600% Sound Volume](https://addons.mozilla.org/en-US/firefox/addon/600-sound-volume/): Take advantage of all your speakers' power by increasing the maximum sound output YouTube allows.
+* [Dark Reader](https://addons.mozilla.org/en-US/firefox/addon/darkreader/): Automatically render any website in a dark mode theme.
 * [Copy PlainText](https://addons.mozilla.org/en-US/firefox/addon/copy-plaintext/): Copy website text without any of the formatting. No more unexpected changes in font or color when you add stuff to your documents.
 * [Clear Browsing Data](https://addons.mozilla.org/en-US/firefox/addon/clear-browsing-data): Quickly and conveniently delete cookies, history, and more from a single toolbar.
+* [Audio Equalizer](https://addons.mozilla.org/en-US/firefox/addon/audio-equalizer-wext/): A convenient way to change browser-wide audio settings on-the-fly.
 * [Tree Style Tabs](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/): Hierarchically organize your tabs to better keep track of websites you've got open.
 * [SaveFrom.net helper all-in-1 / youtube downloader](https://addons.mozilla.org/en-US/firefox/addon/savefromnet-helper/): Easily download any YouTube video.
 
@@ -49,3 +53,4 @@ Extensions that add some helpful tools to the Firefox browsing experience. Usual
 These extensions are ones I am aware of but don't particularly like, or I feel have a better alternative (included in parentheses if relevant). Feel free to peruse them at your leisure regardless.
 
 * [Video DownloadHelper](https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/?utm_medium=firefox-desktop&utm_source=firefox-suggest)
+* [OneTab](https://addons.mozilla.org/en-US/firefox/addon/onetab/) (hasn't been updated in a while and some users are complaining about losing their tabs.)
