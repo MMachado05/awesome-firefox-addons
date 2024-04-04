@@ -24,7 +24,7 @@ Extensions that are particularly well-suited for high-school/college students. T
 ## Utilities
 Extensions that add some helpful tools to the Firefox browsing experience. Usually super useful for some people, and largely unnecessary for others; it all depends on you!
 * [Progressive Web Apps](https://addons.mozilla.org/en-US/firefox/addon/pwas-for-firefox/): Turns websites into stand-alone applications when requested - only available for websites that support the PWA format. Particularly useful for apps that might not need an active internet connection to function (i.e. Excalidraw)
-* [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/) Highly customizable tab manager, including tools such as grouping tabs by container, organizing bookmarks in different formats, custom rules for offloading tabs, and plenty more. *Alternative: Tree Style Tab*
+* [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/) Highly customizable tab manager, including tools such as grouping tabs by container, organizing bookmarks in different formats, custom rules for offloading tabs, and plenty more. 
 * [Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/): Take complete control over your YouTube viewing experience, from disabling those annoying cards that show up at the end of videos, to creating custom keyboard shortcuts. Works well with Return Youtube Dislike.
 * [Auto Tab Discard](https://addons.mozilla.org/en-US/firefox/addon/auto-tab-discard/): Offloads unused tabs from memory to save RAM (THIS DOES NOT DELETE TABS, the name is based on the underlying code used to build the add-on.)
 * [600% Sound Volume](https://addons.mozilla.org/en-US/firefox/addon/600-sound-volume/): Take advantage of all your speakers' power by increasing the maximum sound output YouTube allows.
@@ -32,7 +32,6 @@ Extensions that add some helpful tools to the Firefox browsing experience. Usual
 * [Copy PlainText](https://addons.mozilla.org/en-US/firefox/addon/copy-plaintext/): Copy website text without any of the formatting. No more unexpected changes in font or color when you add stuff to your documents.
 * [Clear Browsing Data](https://addons.mozilla.org/en-US/firefox/addon/clear-browsing-data): Quickly and conveniently delete cookies, history, and more from a single toolbar.
 * [Audio Equalizer](https://addons.mozilla.org/en-US/firefox/addon/audio-equalizer-wext/): A convenient way to change browser-wide audio settings on-the-fly.
-* [Tree Style Tabs](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/): Hierarchically organize your tabs to better keep track of websites you've got open. *Alternative: Sidebery*
 * [SaveFrom.net helper all-in-1 / youtube downloader](https://addons.mozilla.org/en-US/firefox/addon/savefromnet-helper/): Easily download any YouTube video.
 
 ## Productivity
@@ -55,3 +54,4 @@ These extensions are ones I am aware of but don't particularly like, or I feel h
 
 * [Video DownloadHelper](https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/?utm_medium=firefox-desktop&utm_source=firefox-suggest)
 * [OneTab](https://addons.mozilla.org/en-US/firefox/addon/onetab/) (hasn't been updated in a while and some users are complaining about losing their tabs.)
+* [Tree Style Tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/) (everything TST can do, Sidebery seems to do better, all while using less memory.)
