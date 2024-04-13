@@ -22,6 +22,7 @@ Extensions that are particularly well-suited for high-school/college students. T
 
 ## Utilities
 Extensions that add some helpful tools to the Firefox browsing experience. Usually super useful for some people, and largely unnecessary for others; it all depends on you!
+* [Swift Selection Search](https://addons.mozilla.org/en-US/firefox/addon/swift-selection-search/): Access a fully customizable list of search engines directly from a highlighted portion of text.
 * [Progressive Web Apps](https://addons.mozilla.org/en-US/firefox/addon/pwas-for-firefox/): Turns websites into stand-alone applications when requested - only available for websites that support the PWA format. Particularly useful for apps that might not need an active internet connection to function (i.e. Excalidraw)
 * [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/) Highly customizable tab manager, including tools such as grouping tabs by container, organizing bookmarks in different formats, custom rules for offloading tabs, and plenty more. 
 * [Enhancer for YouTube](https://addons.mozilla.org/en-US/firefox/addon/enhancer-for-youtube/): Take complete control over your YouTube viewing experience, from disabling those annoying cards that show up at the end of videos, to creating custom keyboard shortcuts. Works well with Return Youtube Dislike.
