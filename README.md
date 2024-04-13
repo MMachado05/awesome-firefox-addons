@@ -8,7 +8,6 @@ Feel free to make an Issue if you feel there's a phenomenal add-on missing from 
 ## Quality-of-Life Improvements
 Extensions that make the overall Firefox browsing experience better in ways that benefit just about everyone. May also have the added benefit of improving your privacy.
 * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/): The most reputable tracker/ad/content blocker available for browsers to date.
-* [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/): Automatically blocks trackers.
 * [Bypass Paywalls Clean](https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean-d/): Get rid of all paywalls on nearly any news/article website. For obvious reasons, this extension gets taken down somewhat frequently, so [here's](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean) an alternate link. It's a little more complex to install it this way, but a lot more reliable.
 * [Return YouTube Dislike](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/): Re-enable dislike statistics on YouTube. Works well with Enhancer for YouTube.
 * [CleanURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/): Skim off the automatically-appended user tracking parts of URLs, leaving behind nothing but what you wanted to click.
@@ -55,3 +54,4 @@ These extensions are ones I am aware of but don't particularly like, or I feel h
 * [Video DownloadHelper](https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/?utm_medium=firefox-desktop&utm_source=firefox-suggest)
 * [OneTab](https://addons.mozilla.org/en-US/firefox/addon/onetab/) (hasn't been updated in a while and some users are complaining about losing their tabs.)
 * [Tree Style Tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/) (everything TST can do, Sidebery seems to do better, all while using less memory.)
+* [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) (With uBlock, it kind of becomes moot, and might even work against it in some ways. Better to just pick one [I've picked uBlock])
