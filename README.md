@@ -37,6 +37,7 @@ Extensions that add some helpful tools to the Firefox browsing experience. Usual
 ## Productivity
 * [Limit tabs](https://addons.mozilla.org/en-US/firefox/addon/rudolf-fernandes/): Stop tab hoarding in its tracks by putting a hard limit on the number of tabs you can have open.
 * [Unhook](https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos/): Eliminate YouTube's recommended videos, comments, and even more distracting things to take control of your viewing experience.
+* [DeArrow](https://addons.mozilla.org/en-US/firefox/addon/dearrow/): Replace YouTube thumbnails and video titles with honest, non-clickbait crowdsourced alternatives (NOTE: uses the sidebar, so hiding the entire sidebar with Unhook will cause issue. Also, as much as the dev has added hurtles to make you think this is paid, it's free. Just click through all the "I can't pay" options before you activate.)
 * [Momentum](https://addons.mozilla.org/en-US/firefox/addon/momentumdash/): A sleek new tab page focused on improving productivity. *Alternatives: HNTP, Tabliss, New Tab Override*
 
 ## Customizing Websites
