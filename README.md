@@ -38,7 +38,6 @@ Extensions that add some helpful tools to the Firefox browsing experience. Usual
 ## Productivity
 * [Limit tabs](https://addons.mozilla.org/en-US/firefox/addon/rudolf-fernandes/): Stop tab hoarding in its tracks by putting a hard limit on the number of tabs you can have open.
 * [Unhook](https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos/): Eliminate YouTube's recommended videos, comments, and even more distracting things to take control of your viewing experience.
-* [DeArrow](https://addons.mozilla.org/en-US/firefox/addon/dearrow/): Replace YouTube thumbnails and video titles with honest, non-clickbait crowdsourced alternatives (NOTE: uses the sidebar, so hiding the entire sidebar with Unhook will cause issue. Also, as much as the dev has added hurtles to make you think this is paid, it's free. Just click through all the "I can't pay" options before you activate.)
 * [Momentum](https://addons.mozilla.org/en-US/firefox/addon/momentumdash/): A sleek new tab page focused on improving productivity. *Alternatives: HNTP, Tabliss, New Tab Override*
 
 ## Customizing Websites
@@ -55,6 +54,7 @@ Extensions that add some helpful tools to the Firefox browsing experience. Usual
 These extensions are ones I am aware of but don't particularly like, or I feel have a better alternative (included in parentheses if relevant). Feel free to peruse them at your leisure regardless.
 
 * [Video DownloadHelper](https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/?utm_medium=firefox-desktop&utm_source=firefox-suggest)
+* [DeArrow](https://addons.mozilla.org/en-US/firefox/addon/dearrow/): I really *want* to like DeArrow, but the button to toggle crowdsourced vs original titles doesn't always work, and that you have to "re-register" for free trials every so and so amount of time is incredibly frustrating.
 * [OneTab](https://addons.mozilla.org/en-US/firefox/addon/onetab/) (hasn't been updated in a while and some users are complaining about losing their tabs.)
 * [Tree Style Tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/) (everything TST can do, Sidebery seems to do better, all while using less memory.)
 * [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) (With uBlock, it kind of becomes moot, and might even work against it in some ways. Better to just pick one [I've picked uBlock])
