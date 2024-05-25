@@ -41,7 +41,7 @@ Extensions that add some helpful tools to the Firefox browsing experience. Usual
 * [Momentum](https://addons.mozilla.org/en-US/firefox/addon/momentumdash/): A sleek new tab page focused on improving productivity. *Alternatives: HNTP, Tabliss, New Tab Override*
 
 ## Customizing Websites
-* [Firefox GX](https://github.com/Godiesc/firefox-gx): Turns the Firefox UX/UI into one similar to that of Opera GX, with directions on how to customize. Please, [don't use Opera products.](https://www.androidpolice.com/2020/01/21/opera-predatory-loans/)
+* [Firefox GX](https://github.com/Godiesc/firefox-gx): Turns the Firefox UX/UI into one similar to that of Opera GX, with directions on how to customize. Works well with Gx-mods and GX Theme Styles. Please, [don't use Opera products.](https://www.androidpolice.com/2020/01/21/opera-predatory-loans/)
 * [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/): Easily download, manage, and create community-created themes for any website imaginable.
 * [Tabliss](https://addons.mozilla.org/en-US/firefox/addon/tabliss/): A calm new tab for productivity with rich customizability. *Alternatives: Momentum, HNTP, New Tab Override*
 * [Humble New Tab Page](https://addons.mozilla.org/en-US/firefox/addon/humble-new-tab/): A minimal yet customizable new tab page. *Alternatives: Momentum, Tabliss, New Tab Override*
