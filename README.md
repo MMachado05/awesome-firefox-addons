@@ -34,7 +34,7 @@ Extensions that add some helpful tools to the Firefox browsing experience. Usual
 * [Copy PlainText](https://addons.mozilla.org/en-US/firefox/addon/copy-plaintext/): Copy website text without any of the formatting. No more unexpected changes in font or color when you add stuff to your documents.
 * [Clear Browsing Data](https://addons.mozilla.org/en-US/firefox/addon/clear-browsing-data): Quickly and conveniently delete cookies, history, and more from a single toolbar.
 * [Audio Equalizer](https://addons.mozilla.org/en-US/firefox/addon/audio-equalizer-wext/): A convenient way to change browser-wide audio settings on-the-fly.
-* [SaveFrom.net helper all-in-1 / youtube downloader](https://addons.mozilla.org/en-US/firefox/addon/savefromnet-helper/): Easily download any YouTube video.
+* [SaveFrom.net helper all-in-1 / youtube downloader](https://addons.mozilla.org/en-US/firefox/addon/savefromnet-helper/): Easily download any YouTube video. **NOTE:** If you're using a Linux computer, just get the [Video Downloader](https://flathub.org/apps/com.github.unrud.VideoDownloader) Flatpak. It works for a huge number of video providers (which I don't think SaveFrom does) and doesn't bombard you with ads and then sometimes just *not work* like many online options do.
 
 ## Productivity
 * [Limit tabs](https://addons.mozilla.org/en-US/firefox/addon/rudolf-fernandes/): Stop tab hoarding in its tracks by putting a hard limit on the number of tabs you can have open.
