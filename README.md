@@ -10,6 +10,7 @@ Feel free to make an Issue if you feel there's a phenomenal add-on missing from 
 
 ## Quality-of-Life Improvements
 Extensions that make the overall Firefox browsing experience better in ways that benefit just about everyone. May also have the added benefit of improving your privacy.
+
 * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/): The most reputable tracker/ad/content blocker available for browsers to date.
 * [Bypass Paywalls Clean](https://addons.mozilla.org/en-US/firefox/addon/bypass-paywalls-clean-d/): Get rid of all paywalls on nearly any news/article website. For obvious reasons, this extension gets taken down somewhat frequently, so [here's](https://gitlab.com/magnolia1234/bypass-paywalls-firefox-clean) an alternate link. It's a little more complex to install it this way, but a lot more reliable.
 * [Return YouTube Dislike](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/): Re-enable dislike statistics on YouTube. Works well with Enhancer for YouTube.
@@ -20,12 +21,14 @@ Extensions that make the overall Firefox browsing experience better in ways that
 
 ## For Students
 Extensions that are particularly well-suited for high-school/college students. They might also fit elsewhere on this list, but I'm a student, so this category holds some personal relevance!
+
 * [Simplify](https://addons.mozilla.org/en-US/firefox/addon/simplify-jobs/?utm_source=simplify&utm_medium=copilot): Will automatically fill out job applications with pre-set information you provide. The company also maintains a [GitHub page](https://github.com/SimplifyJobs) where they host a repo listing hundreds of software internships for summer of the relevant year.
 * [Better Canvas](https://addons.mozilla.org/en-US/firefox/addon/better-canvas/): Complete customization over your Canvas portal. Works well with Tasks for Canvas™.
 * [Tasks for Canvas™](https://addons.mozilla.org/en-US/firefox/addon/tasks-for-canvas/): Renders Canvas tasks in a much more aesthetically pleasing and functional way. Works well with Better Canvas.
 
 ## Utilities
 Extensions that add some helpful tools to the Firefox browsing experience. Usually super useful for some people, and largely unnecessary for others; it all depends on you!
+
 * [Swift Selection Search](https://addons.mozilla.org/en-US/firefox/addon/swift-selection-search/): Access a fully customizable list of search engines directly from a highlighted portion of text.
 * [Progressive Web Apps](https://addons.mozilla.org/en-US/firefox/addon/pwas-for-firefox/): Turns websites into stand-alone applications when requested - only available for websites that support the PWA format. Particularly useful for apps that might not need an active internet connection to function (i.e. Excalidraw)
 * [Sidebery](https://addons.mozilla.org/en-US/firefox/addon/sidebery/) Highly customizable tab manager, including tools such as grouping tabs by container, organizing bookmarks in different formats, custom rules for offloading tabs, and plenty more. 
@@ -41,6 +44,7 @@ Extensions that add some helpful tools to the Firefox browsing experience. Usual
 * [SaveFrom.net helper all-in-1 / youtube downloader](https://addons.mozilla.org/en-US/firefox/addon/savefromnet-helper/): Easily download any YouTube video. **NOTE:** If you're using a Linux computer, just get the [Video Downloader](https://flathub.org/apps/com.github.unrud.VideoDownloader) Flatpak. It works for a huge number of video providers (which I don't think SaveFrom does) and doesn't bombard you with ads and then sometimes just *not work* like many online options do.
 
 ## Productivity
+
 * [Limit tabs](https://addons.mozilla.org/en-US/firefox/addon/rudolf-fernandes/): Stop tab hoarding in its tracks by putting a hard limit on the number of tabs you can have open.
 * [Unhook](https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos/): Eliminate YouTube's recommended videos, comments, and even more distracting things to take control of your viewing experience.
 * [Momentum](https://addons.mozilla.org/en-US/firefox/addon/momentumdash/): A sleek new tab page focused on improving productivity. *Alternatives: HNTP, Tabliss, New Tab Override*
