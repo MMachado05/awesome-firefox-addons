@@ -1,6 +1,6 @@
 # A List of Excellent Firefox Add-Ons (By Use Case)
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![CC0 1.0][cc-0-shield]][cc-0]
 
 This is an ongoing list of add-ons for Firefox I find that I feel are particularly good at what they aim to do, and that I feel more people should be aware of.
 
@@ -63,3 +63,16 @@ These extensions are ones I am aware of but don't particularly like, or I feel h
 * [OneTab](https://addons.mozilla.org/en-US/firefox/addon/onetab/) (hasn't been updated in a while and some users are complaining about losing their tabs.)
 * [Tree Style Tab](https://addons.mozilla.org/en-US/firefox/addon/tree-style-tab/) (everything TST can do, Sidebery seems to do better, all while using less memory.)
 * [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/) (With uBlock, it kind of becomes moot, and might even work against it in some ways. Better to just pick one [I've picked uBlock])
+
+***
+
+# License
+
+This work is licensed under a
+[Creative Commons Zero 1.0 International License][cc-0].
+
+[![CC 0 1.0][cc-0-image]][cc-0]
+
+[cc-0]: https://creativecommons.org/publicdomain/zero/1.0/
+[cc-0-image]: https://licensebuttons.net/l/zero/1.0/88x31.png
+[cc-0-shield]: https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg
