@@ -1,4 +1,7 @@
 # A List of Excellent Firefox Add-Ons (By Use Case)
+
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 This is an ongoing list of add-ons for Firefox I find that I feel are particularly good at what they aim to do, and that I feel more people should be aware of.
 
 Feel free to make an Issue if you feel there's a phenomenal add-on missing from this list!
