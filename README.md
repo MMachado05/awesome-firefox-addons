@@ -12,6 +12,7 @@ Extensions that make the overall Firefox browsing experience better in ways that
 * [Return YouTube Dislike](https://addons.mozilla.org/en-US/firefox/addon/return-youtube-dislikes/): Re-enable dislike statistics on YouTube. Works well with Enhancer for YouTube.
 * [CleanURLs](https://addons.mozilla.org/en-US/firefox/addon/clearurls/): Skim off the automatically-appended user tracking parts of URLs, leaving behind nothing but what you wanted to click.
 * [Facebook Container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=featured): Stop Facebook from tracking your every move by completely isolating it from the rest of your browser.
+* [Terms of Service; Didn't Read](https://addons.mozilla.org/en-US/firefox/addon/terms-of-service-didnt-read/): Get immediate feedback on the terms of service of all websites you visit, and what that *actually* means for *you and your rights*, in the form of an easy-to-understand A-E grade.
 * [I still don't care about cookies](https://addons.mozilla.org/en-US/firefox/addon/istilldontcareaboutcookies/) Gets rid of that intrusive "Allow cookies" banner on all websites. **NOTE:** if this is a *necessary* popup in order to use the website, the extension will automatically accept cookies, which sometimes includes accepting all of them. If privacy is important to you, please look into this extension and make sure it's right for you.
 
 ## For Students
