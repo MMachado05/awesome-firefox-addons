@@ -63,7 +63,9 @@ These extensions "quiet down" your browsing experience so you can get more work 
 * [Unhook](https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos/): Eliminate YouTube's recommended videos, comments, and even more distracting things to take control of your viewing experience.
 * [Momentum](https://addons.mozilla.org/en-US/firefox/addon/momentumdash/): A sleek new tab page focused on improving productivity. *Alternatives: HNTP, Tabliss, New Tab Override*
 
-## Customizing Websites
+## Customization
+
+* [Adaptive Theme Creator](https://addons.mozilla.org/en-US/firefox/addon/adaptive-theme-creator/): Creates on-the-fly themes to match the style off the current webpage; comes with plenty of settings to fine-tune the themes you get.
 * [Firefox GX](https://github.com/Godiesc/firefox-gx): Turns the Firefox UX/UI into one similar to that of Opera GX, with directions on how to customize. Works well with Gx-mods and GX Theme Styles. Please, [don't use Opera products.](https://www.androidpolice.com/2020/01/21/opera-predatory-loans/)
 * [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/): Easily download, manage, and create community-created themes for any website imaginable.
 * [Tabliss](https://addons.mozilla.org/en-US/firefox/addon/tabliss/): A calm new tab for productivity with rich customizability. *Alternatives: Momentum, HNTP, New Tab Override*
