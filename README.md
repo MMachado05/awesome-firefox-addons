@@ -8,6 +8,7 @@ Feel free to make an Issue if you feel there's a phenomenal add-on missing from 
 
 **A note:** there's a Firefox fork called [Floorp](https://floorp.app/en/) that actually has a lot of QoL improvements added by default. Silly name aside, it's worth looking into if you're interested in "enhancing" the way you use Firefox.
 
+## Contents
 - [Quality-of-Life Improvements](#quality-of-life-improvements)
 - [For Students](#for-students)
 - [Utilities](#utilities)
