@@ -1,4 +1,4 @@
-# A List of Excellent Firefox Add-Ons (By Use Case)
+# A List of Excellent Firefox Add-Ons (By Use Case) <!-- toc omit heading -->
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![CC0 1.0][cc-0-shield]][cc-0]
 
@@ -7,6 +7,14 @@ This is an ongoing list of add-ons for Firefox I find that I feel are particular
 Feel free to make an Issue if you feel there's a phenomenal add-on missing from this list!
 
 **A note:** there's a Firefox fork called [Floorp](https://floorp.app/en/) that actually has a lot of QoL improvements added by default. Silly name aside, it's worth looking into if you're interested in "enhancing" the way you use Firefox.
+
+- [Quality-of-Life Improvements](#quality-of-life-improvements)
+- [For Students](#for-students)
+- [Utilities](#utilities)
+- [Productivity](#productivity)
+- [Customization](#customization)
+- [Extensions not included](#extensions-not-included)
+- [License](#license)
 
 ## Quality-of-Life Improvements
 Extensions that make the overall Firefox browsing experience better in ways that benefit just about everyone. May also have the added benefit of improving your privacy.
