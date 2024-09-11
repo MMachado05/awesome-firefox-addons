@@ -57,6 +57,7 @@ Extensions that add some helpful tools to the Firefox browsing experience. Usual
 * [SaveFrom.net helper all-in-1 / youtube downloader](https://addons.mozilla.org/en-US/firefox/addon/savefromnet-helper/): Easily download any YouTube video. **NOTE:** If you're using a Linux computer, just get the [Video Downloader](https://flathub.org/apps/com.github.unrud.VideoDownloader) Flatpak. It works for a huge number of video providers (which I don't think SaveFrom does) and doesn't bombard you with ads and then sometimes just *not work* like many online options do.
 
 ## Productivity
+These extensions "quiet down" your browsing experience so you can get more work done, without as many of the endless distractions of the internet getting in your way.
 
 * [Limit tabs](https://addons.mozilla.org/en-US/firefox/addon/rudolf-fernandes/): Stop tab hoarding in its tracks by putting a hard limit on the number of tabs you can have open.
 * [Unhook](https://addons.mozilla.org/en-US/firefox/addon/youtube-recommended-videos/): Eliminate YouTube's recommended videos, comments, and even more distracting things to take control of your viewing experience.
