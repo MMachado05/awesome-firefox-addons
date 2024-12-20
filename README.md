@@ -77,9 +77,10 @@ These extensions "quiet down" your browsing experience so you can get more work 
 * [Adaptive Theme Creator](https://addons.mozilla.org/en-US/firefox/addon/adaptive-theme-creator/): Creates on-the-fly themes to match the style off the current webpage; comes with plenty of settings to fine-tune the themes you get.
 * [Firefox GX](https://github.com/Godiesc/firefox-gx): Turns the Firefox UX/UI into one similar to that of Opera GX, with directions on how to customize. Works well with Gx-mods and GX Theme Styles. Please, [don't use Opera products.](https://www.androidpolice.com/2020/01/21/opera-predatory-loans/)
 * [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us/): Easily download, manage, and create community-created themes for any website imaginable.
-* [Tabliss](https://addons.mozilla.org/en-US/firefox/addon/tabliss/): A calm new tab for productivity with rich customizability. *Alternatives: Momentum, HNTP, New Tab Override*
-* [Humble New Tab Page](https://addons.mozilla.org/en-US/firefox/addon/humble-new-tab/): A minimal yet customizable new tab page. *Alternatives: Momentum, Tabliss, New Tab Override*
-* [New Tab Override](https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/): Set custom URLs and settings for your new tab. *Alternatives: Momentum, Tabliss, HNTP*
+* [Tabliss](https://addons.mozilla.org/en-US/firefox/addon/tabliss/): A calm new tab for productivity with rich customizability. *Alternatives: Momentum, HNTP, New Tab Override, A Fine Start*
+* [Humble New Tab Page](https://addons.mozilla.org/en-US/firefox/addon/humble-new-tab/): A minimal yet customizable new tab page. *Alternatives: Momentum, Tabliss, New Tab Override, A Fine Start*
+* [A Fine Start](https://addons.mozilla.org/en-US/firefox/addon/a-fine-start/): A slick new tab page with click links to your favorite websites. *Alternatives: Momentum, Tabliss, New Tab Override, HNTP*
+* [New Tab Override](https://addons.mozilla.org/en-US/firefox/addon/new-tab-override/): Set custom URLs and settings for your new tab. *Alternatives: Momentum, Tabliss, HNTP, A Fine Start*
 * [Tampermonkey](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/): Apply custom scripts to websites for maximum customizability.
 
 ***
