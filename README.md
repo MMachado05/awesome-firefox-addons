@@ -6,7 +6,7 @@ This is an ongoing list of add-ons for Firefox I find that I feel are particular
 
 Feel free to make an Issue if you feel there's a phenomenal add-on missing from this list!
 
-**A note:** there's a Firefox fork called [Floorp](https://floorp.app/en/) that actually has a lot of QoL improvements added by default. Silly name aside, it's worth looking into if you're interested in "enhancing" the way you use Firefox.
+**A note on alternatives:** Firefox has given way to a great community of other projects, namely the [Floorp](https://floorp.app/en/) and [Zen](https://zen-browser.app/) browsers. The former is great for really nitty-gritty customizations with a lot of QoL improvements out of the box, and the latter is great if you're a fan of vertical tabs and are looking for productivity-forward browsing experience. Like Arc, but it won't be abandoned by devs because it's not profitable. I highly recommend looking into those if either of those sound like something up your alley.
 
 ## Contents
 - [Quality-of-Life Improvements](#quality-of-life-improvements)
